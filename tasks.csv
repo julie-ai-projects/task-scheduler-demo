@@ -1,0 +1,4 @@
+task_name,interval_seconds,action
+Check Emails,5,print('📨 Checking inbox...')
+Backup Files,10,print('💾 Backing up files...')
+Send Report,15,print('📊 Generating daily report...')
